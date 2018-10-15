@@ -1,6 +1,15 @@
+* {
+    box-sizing: border-box;
+}
 
+html {
+    font-family: helvetica;
+}
 
-
+#logo {
+    height: 50px;
+    box-shadow: 5px 5px #777777;
+}
 #special-pic {
     box-shadow: 3px 3px yellow;
     height: 300px;
